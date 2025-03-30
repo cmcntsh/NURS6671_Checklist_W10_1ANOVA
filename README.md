@@ -27,10 +27,10 @@ You must use the concepts you learn in this course throughout the rest of your p
 | <img width="100" height="1"> |  <img width="100" height="1"> | Independent<br>(or Predictor)<br>Variable (IV)<br><img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> | <img width="100" height="1"> |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | <br><br><br> |  | **Nominal**  | **Ordinal** | **Interval** | **Ratio** |
-| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | Chi-Square Test of Independence (Association)<br>(Dependent Samples) McNemar's Test |  |  |  |
-| <br><br><br> | **Ordinal** |  |  |  |  |
-| <br><br><br> | **Interval** | (two groups) independent t-test<br>(skewed data) Mann-Whitney U |  | $\textcolor{red}{Add \ this \ test:}$ (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test | $\textcolor{red}{Add \ this \ test:}$ (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test |
-| <br><br><br> | **Ratio** | (two groups) independent t-test<br>(skewed data) Mann-Whitney U |  | $\textcolor{red}{Add \ this \ test:}$ (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test | $\textcolor{red}{Add \ this \ test:}$ (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test |
+| **Dependent<br>(or Outcome)<br>Variable (DV)**<br><br> | **Nominal** | Chi-Square Test of Independence (Association)<br>(Dependent Samples) McNemar's Test |  | <br>$\textcolor{red}{Add \ this \ test:}$ (3 or more groups) one-way ANOVA<br>(skewed data) Kruskal-Wallis test | <br>$\textcolor{red}{Add \ this \ test:}$ (3 or more groups) one-way ANOVA<br>(skewed data) Kruskal-Wallis test |
+| <br><br><br> | **Ordinal** |  |  | <br>$\textcolor{red}{Add \ this \ test:}$ (3 or more groups) one-way ANOVA<br>(skewed data) Kruskal-Wallis test | <br>$\textcolor{red}{Add \ this \ test:}$ (3 or more groups) one-way ANOVA<br>(skewed data) Kruskal-Wallis test |
+| <br><br><br> | **Interval** | (two groups) independent t-test<br>(skewed data) Mann-Whitney U |  | (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test | (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test |
+| <br><br><br> | **Ratio** | (two groups) independent t-test<br>(skewed data) Mann-Whitney U |  | (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test | (two paired or repeated measures) paired t-test<br>(skewed data) Wilcoxon Signed-Ranks test |
 
 <br><br><br>
 # Statistical Analysis/Critique Steps
