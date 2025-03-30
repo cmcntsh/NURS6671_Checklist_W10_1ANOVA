@@ -93,7 +93,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | Are any post-hoc or follow-up analyses needed? |
 | $\textcolor{red}{Update \ this \ section:}$ <br>Describe which post-hoc test(s) you run and your rationale for choosing the test(s).<br><br><br><br> |
 | What is the effect size? What is the interpretation of the effect size? |
-| $\textcolor{red}{Update \ this \ section:}$ partial eta squared (.01-small, .06-medium, .14-large) = <br><br>or omega squared (.06-small, .14-medium, >.14-large) = <br><br> |
+| $\textcolor{red}{Update \ this \ section:}$ <br>partial eta squared (.01-small, .06-medium, .14-large) = <br><br>or omega squared (.06-small, .14-medium, >.14-large) = <br><br> |
 | Can a Bayes Factor be calculated? What is the interpretation of the Bayes Factor? |
 | B01 (null supported) or B10 (alternative supported) =<br><br><br><br> |
 | How will you report results? |
