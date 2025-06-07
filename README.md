@@ -83,7 +83,7 @@ Hopefully, the statistics you calculate are more than just a collection of rando
 | NHST steps: |
 | These steps should be followed for each statistical test conducted as part of a study. |
 | 1. State the null and alternative hypothesis. |
-| $\textcolor{red}{Update \ this \ section:}$ <br>H0: There is no difference between group means<br><br>H1: There is a difference between group means<br><br> |
+| $`\textcolor{red}{Update \ this \ section:}`$ <br>H0: There is no difference between group means<br><br>H1: There is a difference between group means<br><br> |
 | 2. Establish the criteria for rejection (alpha level). |
 | Typically alpha = .05<br><br><br><br> |
 | 3. Calculate the test statistic. |
